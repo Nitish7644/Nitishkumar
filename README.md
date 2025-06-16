@@ -1,5 +1,5 @@
 # Hi, I'm Nitish Kumar!
-# Data Scientist and Gen AI Engineer!
+#### Data Scientist and Gen AI Engineer!
 # About Me
  Hello! I'm a passionate and self-motivated Data Science & Generative AI enthusiast, currently building my skills through hands-on projects and real-world problem solving.
 My learning journey includes:
