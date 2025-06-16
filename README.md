@@ -11,10 +11,10 @@ My learning journey includes:
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 - Python |  Pandas |  Matplotlib |  Scikit-learn  
--  | LangChain | LLM Prompting  
+-  |Power BI | LLM Prompting  |Pandas,
 -  SQL |  Numpy |  Data Cleaning  
 - Jupyter Notebooks | VS Code | Git & GitHub
 
@@ -23,5 +23,4 @@ My learning journey includes:
 ### Featured Projects
 
 - `Restaurant Review Analysis` — Zomato Data Analysis using Python & Pandas  
-- `AI Chatbot with LangChain` — GPT + Custom Data  
-- `EDA Automation Tool` — Auto analysis & report generation  
+  - Accident Data Analysis     - Car Accident Data Analysis using Python, Numpy and Pandas.
