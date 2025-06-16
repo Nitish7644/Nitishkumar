@@ -1,9 +1,9 @@
 # Nitishkumar
- I’m currently building projects in **Data Science & Generative AI**  
- I’m learning from courses by **Ingraide Data science and GEN AI Program.**  
- I’m looking to collaborate on AI & Machine Learning projects  
- Ask me about **Python, Pandas, Data Analysis, Prompt Engineering**  
- Reach me at **nitish50814@gmail.com**  
+ Hello! I'm a passionate and self-motivated Data Science & Generative AI enthusiast, currently building my skills through hands-on projects and real-world problem solving.
+My learning journey includes:
+ Strong foundation in Python, Pandas, NumPy, Scikit-learn
+ Exploring Machine Learning, Deep Learning, and NLP
+ Currently diving into Generative AI (LLMs, Prompt Engineering) to build smart applications
  [LinkedIn Profile](www.linkedin.com/in/nitish-kumar-58277b203)  
  [Portfolio Website](https://your-portfolio-link.vercel.app) (if any)  
 
