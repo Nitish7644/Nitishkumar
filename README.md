@@ -24,3 +24,7 @@ My learning journey includes:
 
 - `Restaurant Review Analysis` — Zomato Data Analysis using Python & Pandas  
   - Accident Data Analysis     - Car Accident Data Analysis using Python, Numpy and Pandas.
+
+ ### Connect With Me.
+. [LinkedIn Profile](www.linkedin.com/in/nitish-kumar-58277b203)   
+. [Portfolio Website](https://your-portfolio-link.vercel.app) 
